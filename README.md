@@ -42,7 +42,7 @@ This program was built as part of **Assignment no 2** for Python Programming (by
 
 - Python 3
   
-## 📄 File
+## File
 
 - `converter.py` — main program file containing all conversion logic.
 
