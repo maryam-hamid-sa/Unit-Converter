@@ -4,7 +4,7 @@ A simple Python program that converts values between different units of length a
 
 ## Objective
 
-This program was built as part of **Assignment no 2** for Python Programming (by FARRUKH). It demonstrates:
+It demonstrates:
 
 - Variables
 - Data Types
