@@ -1,3 +1,6 @@
+<img width="1200" height="630" alt="unit-converter" src="https://github.com/user-attachments/assets/49240a9a-585a-470d-a81b-dff7825dc03c" />
+
+
 # Multi Unit Converter
 
 A simple Python program that converts values between different units of length and distance using variables, type conversion, and arithmetic operators.
