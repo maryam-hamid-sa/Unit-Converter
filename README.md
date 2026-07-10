@@ -1,4 +1,4 @@
-<img width="1200" height="630" alt="unit-converter" src="https://github.com/user-attachments/assets/49240a9a-585a-470d-a81b-dff7825dc03c" />
+<img width="547" height="365" alt="images jpeg" src="https://github.com/user-attachments/assets/4df7ae36-71d7-41a3-93a3-f4e9093a4d1e" />
 
 
 # Multi Unit Converter
